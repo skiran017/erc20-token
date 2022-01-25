@@ -1,7 +1,7 @@
 {
   "name": "erc20-token",
   "version": "1.0.0",
-  "description": "smart contracts for ERC20 and ERC721 tokens",
+  "description": "smart contracts for ERC20 token",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -12,7 +12,7 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/skiran017/erc20-token.git"
-  },
+  },   
   "keywords": [],
   "author": "skiran017",
   "license": "ISC",
